@@ -1,0 +1,150 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Trains! Add-on 2",
+        "role": "This is version 2.0 of the original 'Trains! Addon steam editio', with custom craftable trains, new recipes, 8 different color options, and a more improved way of connecting the compartments! Also this time it doesn't replace minecarts :D",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Train/2/2.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/2/trains2.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/2/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/2/1.png,"
+    },
+    {
+        "name": "RTM BE 1.0",
+        "role": "The mod will add a train from the Minecraft Java RTM kiha 600 train mod to your game. The model was made by me personally in the Blockbench program. You can travel on train.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Train/3/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/3/RTM_1.0.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/3/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/3/1.png,"
+    },
+    {
+        "name": "Tokyo Metro 6000 Series (Indonesia) Addon",
+        "role": "This is Tokyo Metro 6000 Series localized for Indonesia's Kereta Commuter Railway, the original version is White with Green line. This addon replaces the minecart and is available in both 3 and 6 Cars Formation.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Train/7/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/7/Tokyo-Metro-Indonesia.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/7/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/7/1.jpeg,"
+    },
+    {
+        "name": "RTM BE 1.0",
+        "role": "The mod will add a train from the Minecraft Java RTM kiha 600 train mod to your game. The model was made by me personally in the Blockbench program. You can travel on train.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Train/9/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/9/RTM_1.0.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/9/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/9/dua.jpeg,"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/B3rlH8aX5xL8fONO4jRzyGtm-O-VLwkH83_CqD7Fu4EJsf8E0LqM1DowO3F6ur8ujm1gxLfk7e8jrs98xPXvxuj94Ng8RCS58Yk",
+    "view_skin": "https://lh3.googleusercontent.com/4clt9ES23HRG8reSUq5POB_KV6hAc8fqDsGtV4EoK3C2ZpcdDqO7WVqva0lh-zdn5qbfjFaHc-e6KlP8ZvH2crkOLLUJQ30qNu0"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Qv3Yjf-iViChWsvOV_qP9MPXL_FM2cV9blFy4hIGeyK8u7lR03hRLC6XU9FwOT1ZDx2B6cP346skZuNaOjNK",
+    "view_skin": "https://lh3.googleusercontent.com/Rm2dbmhQKhxcYqfZ53w2BNPK36KpMTdygzlQTZVMb5P8Afw0xP7hJqLZRFiGAL0TA_xJ5xBOSx3cayoTgekM"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SVNksnKR0a9xFsgXYifKTJYhOq4xFAmhjtqlwCxUhOTs8u7E-ltMTmatGt1reHJ44ii1FtHkTQaM69F2ra9-4Q",
+    "view_skin": "https://lh3.googleusercontent.com/6LaDzFMbRnpRf5w3s9GKYIz8eoEzho5nBz60_4rJt_yiTKQ-wcj-a1MbdWOvWbIw3BSf_CTygSSqP5uVh5Z1IQ"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iHeW_BFGfV1T6_pm7lZeTcuQZEFrm8-7lKi9JQJ9CVMNpiCiDWohTaDAeDGbdspq8V4sCVoLSLi7IiOj8vdJx2uVBnEPn2GIQyZZ",
+    "view_skin": "https://lh3.googleusercontent.com/EIgeotwAD8yh8ITZQJDICJjmoRKN1NJxR9gOKxf4kqno6Tqa81GFiY-qWHmJGfolC9Q3OMWnCJ8X5XvG-E3d7EwBeGD9Ll17B2s"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/VsifceUocw4J30VRODPkfnm_927y6M5gbb_QkMzIMcovTmcuDjN_eaUdhHqmQsGe0FWwyHkWbSHj26Myv80BCaDV7uHtRELENw",
+    "view_skin": "https://lh3.googleusercontent.com/jcPdRhxDnuGOODheSdX1ouKi66luOREKMJA3ZXzehbzSVFjaYf0YdgGVs1Q2Gd9oosXmHgW9dUHDv3mtAIvUpdPqU71Y0x_SL1M"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/M9GEnaybBr9pNrg-O3TcTOVAM_aYY1iZsnU1q1fbzyqcmgKWV9KSFUnSnSO_dTe97te5j7pd0dq1YFRhVNa6VTCe5pab8-Y7sw",
+    "view_skin": "https://lh3.googleusercontent.com/UnxcRhOSyftOtrnUZ_uR95SYkMgiVJO5O26maZUGfaLw1sO2RyTnDhysmc1GfdH1LR_6ThPU8T5BI-XM1IjIxkwrwZl4aoHyvEY"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/JT2ie_lDY3tkQKF89RplIuPZMOdnXMcxbn0Du43kbp04Kg5kPPxJuEjsY1ounRC0C1d3CDi9YqJi8gXebv35iYaV0ieBXQ7vVQ",
+    "view_skin": "https://lh3.googleusercontent.com/Pu5wVXHk_H61HoFFgtX2XzSMw2ikQuHfXoqVbFtDSHlPNK641aQaqMOILuWvcRw4YykCPPtfw_eEbmqN_23RevCM4j_raFH8h0Kj"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
