@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,36 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Trains! Add-on 2",
-        "role": "This is version 2.0 of the original 'Trains! Addon steam editio', with custom craftable trains, new recipes, 8 different color options, and a more improved way of connecting the compartments! Also this time it doesn't replace minecarts :D",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Train/2/2.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/2/trains2.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/2/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/2/1.png,"
-    },
-    {
-        "name": "RTM BE 1.0",
-        "role": "The mod will add a train from the Minecraft Java RTM kiha 600 train mod to your game. The model was made by me personally in the Blockbench program. You can travel on train.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Train/3/3.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/3/RTM_1.0.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/3/2.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/3/1.png,"
-    },
-    {
-        "name": "Tokyo Metro 6000 Series (Indonesia) Addon",
-        "role": "This is Tokyo Metro 6000 Series localized for Indonesia's Kereta Commuter Railway, the original version is White with Green line. This addon replaces the minecart and is available in both 3 and 6 Cars Formation.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Train/7/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/7/Tokyo-Metro-Indonesia.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/7/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/7/1.jpeg,"
-    },
-    {
-        "name": "RTM BE 1.0",
-        "role": "The mod will add a train from the Minecraft Java RTM kiha 600 train mod to your game. The model was made by me personally in the Blockbench program. You can travel on train.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Train/9/satu.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Train/9/RTM_1.0.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Train/9/empat.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Train/9/dua.jpeg,"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
